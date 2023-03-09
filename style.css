@@ -129,7 +129,7 @@ strong {
 }
 
 #a{
-    background-image: url("/assets-metropolis/assets-metropolis/1.jpeg");
+    background-image: url("https://github.com/barthelemy-lebel/Benjamin-Code-Challenge/blob/main/assets-metropolis/assets-metropolis/1.jpeg");
     background-size: cover;
     object-fit: cover;
     animation: goLeft 1.5s;
@@ -138,14 +138,14 @@ strong {
 }
 
 #b{
-    background-image: url("/assets-metropolis/assets-metropolis/2.jpeg");
+    background-image: url("https://github.com/barthelemy-lebel/Benjamin-Code-Challenge/blob/main/assets-metropolis/assets-metropolis/2.jpeg");
     background-size: cover;
     object-fit: cover;
     animation: goUp 1.5s;
 }
 
 #c{
-    background-image: url("/assets-metropolis/assets-metropolis/3.jpeg");
+    background-image: url("https://github.com/barthelemy-lebel/Benjamin-Code-Challenge/blob/main/assets-metropolis/assets-metropolis/3.jpeg");
     background-size: cover;
     object-fit: cover;
     animation: goRight 1.5s;
